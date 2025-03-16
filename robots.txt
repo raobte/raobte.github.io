@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://raobte.csgad.com/diC/sitemap.xml.gz
